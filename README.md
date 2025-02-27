@@ -1,7 +1,4 @@
-Mi nombre es Nicolás Montiel y soy un desarrollador full-stack y futuro analista programador de DuocUC. Estoy capacitado en tecnologías back-end y front-end en javascript, lo que me permite desarrollar aplicaciones web completas y escalables. 
-Mi pasión por el desarrollo y la resolución de problemas técnicos me permiten entregar soluciones eficientes y de alta calidad.
-Soy una persona perfeccionista y analítica, mis principales características 
-son la atención a los detalles, solución de problemas, prudencia, orientación a la tarea y tolerancia a la presión.
+Programador
 
 <!--
 **nemontiel/nemontiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
